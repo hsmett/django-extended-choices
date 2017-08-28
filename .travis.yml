@@ -1,3 +1,6 @@
+group: "stable"
+dist: "trusty"
+os: "linux"
 sudo: false
 language: python
 python: '3.6'
