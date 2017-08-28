@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Unreleased
+---------------------------------
+* django-extended-choices supports Django 1.8, 1.9, 1.10 and 1.11
+* django-extended-choices Python supports now follow the latests django support matrix
+* Add a tox configuration (tests, pep8 validation and code coverage)
+
 Release *v1.1.1* - ``2016-11-03``
 ---------------------------------
 * make ``OrderedChoices`` available at the package root
